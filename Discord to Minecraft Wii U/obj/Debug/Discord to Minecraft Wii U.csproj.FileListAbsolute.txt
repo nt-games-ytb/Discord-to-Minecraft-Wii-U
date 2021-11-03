@@ -1,0 +1,10 @@
+C:\Users\toron\source\repos\Discord to Minecraft Wii U\bin\Debug\Discord to Minecraft Wii U.exe.config
+C:\Users\toron\source\repos\Discord to Minecraft Wii U\bin\Debug\Discord to Minecraft Wii U.exe
+C:\Users\toron\source\repos\Discord to Minecraft Wii U\bin\Debug\Discord to Minecraft Wii U.pdb
+C:\Users\toron\source\repos\Discord to Minecraft Wii U\obj\Debug\Discord to Minecraft Wii U.csproj.AssemblyReference.cache
+C:\Users\toron\source\repos\Discord to Minecraft Wii U\obj\Debug\Discord_to_Minecraft_Wii_U.Form1.resources
+C:\Users\toron\source\repos\Discord to Minecraft Wii U\obj\Debug\Discord_to_Minecraft_Wii_U.Properties.Resources.resources
+C:\Users\toron\source\repos\Discord to Minecraft Wii U\obj\Debug\Discord to Minecraft Wii U.csproj.GenerateResource.cache
+C:\Users\toron\source\repos\Discord to Minecraft Wii U\obj\Debug\Discord to Minecraft Wii U.csproj.CoreCompileInputs.cache
+C:\Users\toron\source\repos\Discord to Minecraft Wii U\obj\Debug\Discord to Minecraft Wii U.exe
+C:\Users\toron\source\repos\Discord to Minecraft Wii U\obj\Debug\Discord to Minecraft Wii U.pdb
