@@ -1,6 +1,6 @@
 # What is this ?
 This is the code of Discord to Minecraft Wii U.    
-I made a video to illustrate this : https://youtube.com/shorts/MXy0h7w4_OI
+I made a video to illustrate this : https://youtube.com/shorts/MXy0h7w4_OI.
 
 # How do I compile ? 
 You can compile this with [Microsoft Visual Studio](https://visualstudio.microsoft.com/) or with other development software in C#.
