@@ -1,5 +1,5 @@
 # What is this ?
-This is the code of Discord to Minecraft Wii U.    
+This is the code of Discord to Minecraft Wii U, a RTM tool for synchronise Discord chat to Minecraft Wii U chat.    
 I made a video to illustrate this : https://youtube.com/shorts/MXy0h7w4_OI.
 
 # How do I compile ? 
